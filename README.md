@@ -1,4 +1,4 @@
-### Hi there 👋
+### ⚡⚡ Never have a trust issue on a programmer who makes his codes open-source. ⚡⚡
 
 <!--
 **Technopark95/Technopark95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
