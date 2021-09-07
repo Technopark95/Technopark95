@@ -1,6 +1,6 @@
 ### ⚡⚡ When we 'try again and again' , it makes it the most powerful action in the universe. ⚡⚡
 
-### My website - www.graphicalstructure.org
+### My website - https://graphicalstructure.org
 ### 🔭 I’m currently working in LeadSquared
 ### 🌱 I’m currently learning javaScript
 ### 💬 Ask me about anything
